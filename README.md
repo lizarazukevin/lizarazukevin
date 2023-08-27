@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin Lizarazu-Ampuero</h1>
 <h3 align="center">A passionate software developer that majored in Computer Engineering, hoping to make a difference through the projects and research I undertake!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.gif">
+<img align="right" alt="Coding" width="200" src="https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lizarazukevin&label=Profile%20views&color=0e75b6&style=flat" alt="lizarazukevin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lizarazukevin" alt="lizarazukevin" /></a> </p>
 
 - 🔭 I’m currently working on [Disaster View](https://github.com/lizarazukevin/disaster_view)
 
