@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lizarazukevin&label=Profile%20views&color=0e75b6&style=flat" alt="lizarazukevin" /> </p>
 
-- 🔭 I’m currently working on [Disaster View](https://github.com/lizarazukevin/disaster_view) and [MOVOW](https://github.com/lizarazukevin/MOVOW)
+- 🔭 I’m currently working on [CrisiScope](https://github.com/lizarazukevin/disaster_view) and [MOVOW](https://github.com/lizarazukevin/MOVOW)
 
 - 🌱 I’m currently learning **React, Javascript, Distributed Systems, MERN Stack**
 
